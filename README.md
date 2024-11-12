@@ -1,0 +1,2 @@
+# EFFECT-cmd
+start/cmd
